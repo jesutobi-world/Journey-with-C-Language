@@ -1,0 +1,13 @@
+step 1: open the input file
+step 2: assign the opened file to a variable
+step 3: check if the file was successfully opened by adding a null exception.
+step 4: read the first line of the input file
+sstep 5: store the first line in a variable
+step: loop through the value of the first line i.e the number of testcases
+step 6: extract other lines of the input file and store them in a variable
+step 7: calculate the length of the test case 
+step 8: loop through the length then store each character of the testcase in an array
+step 9: using nested for loops, check if each element in the array is equal to the value of the loop counter
+step 10: if equal, then a variable labelled self_describing should be updated to true
+step 11: else if not equal, self_describing becomes false
+step 12: after the code completes all loop iterations, if self_describing is not false then print that the number is self-describing.
