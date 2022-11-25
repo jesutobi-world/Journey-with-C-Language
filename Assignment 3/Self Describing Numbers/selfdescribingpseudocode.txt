@@ -12,4 +12,3 @@ step 10: if equal, then a variable labelled self_describing should be updated to
 step 11: else if not equal, self_describing becomes false
 step 12: after the code completes all loop iterations, if self_describing is not false then print that the number is self-describing.
 
-GitHub Link: https://github.com/jesutobi-world/Journey-with-C-Language/tree/main/Self%20Describing
